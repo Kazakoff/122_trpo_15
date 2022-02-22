@@ -10,5 +10,5 @@ package com.mycompany.mavenproject1;
  * @author Admin
  */
 public class NewClass1 {
-    
+    // fykjtykyulku
 }
